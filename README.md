@@ -13,7 +13,7 @@ Please cite these results by citing the above two papers and the Mathematica not
 ### BiBTeX:
 
 @article{Lauchli:2025fii,
-    author = {L\"auchli, Andreas M. and Herviou, Lo\"\i{}c and Wilhelm, Patrick H. and Rychkov, Slava},
+    author = {L\\" auchli, Andreas M. and Herviou, Lo\\"ic and Wilhelm, Patrick H. and Rychkov, Slava},
     title = "{Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model}",
     eprint = "2504.00842",
     archivePrefix = "arXiv",
