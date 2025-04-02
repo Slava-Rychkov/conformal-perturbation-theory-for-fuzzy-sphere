@@ -13,16 +13,6 @@ Bingxin Lao, Slava Rychkov "3D Ising CFT and Exact Diagonalization on Icosahedro
 Please cite these results by citing the above two papers and the Mathematica notebook, as follows:
 ### BiBTeX:
 
-@article{Lauchli:2025fii,
-    author = {L\\" auchli, Andreas M. and Herviou, Lo\\"ic and Wilhelm, Patrick H. and Rychkov, Slava},
-    title = "{Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model}",
-    eprint = "2504.00842",
-    archivePrefix = "arXiv",
-    primaryClass = "cond-mat.stat-mech",
-    month = "4",
-    year = "2025"
-}
-
 @article{Lao:2023zis,
     author = "Lao, Bing-Xin and Rychkov, Slava",
     title = "{3D Ising CFT and exact diagonalization on icosahedron: The power of conformal perturbation theory}",
@@ -36,6 +26,17 @@ Please cite these results by citing the above two papers and the Mathematica not
     pages = "243",
     year = "2023"
 }
+
+@article{Lauchli:2025fii,
+    author = {L\\" auchli, Andreas M. and Herviou, Lo\\"ic and Wilhelm, Patrick H. and Rychkov, Slava},
+    title = "{Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model}",
+    eprint = "2504.00842",
+    archivePrefix = "arXiv",
+    primaryClass = "cond-mat.stat-mech",
+    month = "4",
+    year = "2025"
+}
+
 
 @article{CPTnotebook,
 	author = "Rychkov, Slava",
