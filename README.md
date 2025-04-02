@@ -1,6 +1,7 @@
 # Conformal perturbation theory
 S. Rychkov, 2025
-contains Mathematica notebook detailing conformal perturbation theory computations used in 
+
+This repository contains a Mathematica notebook detailing conformal perturbation theory computations used in 
 
 Andreas M. Läuchli, Loïc Herviou, Patrick H. Wilhelm, Slava Rychkov "Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model", https://arxiv.org/abs/2504.00842
 
