@@ -28,14 +28,18 @@ Please cite these results by citing the above two papers and the Mathematica not
 }
 
 @article{Lauchli:2025fii,
-    author = {L\\" auchli, Andreas M. and Herviou, Lo\\"ic and Wilhelm, Patrick H. and Rychkov, Slava},
+    author = {L{\"a}uchli, Andreas M. and Herviou, Lo{\"\i}c and Wilhelm, Patrick H. and Rychkov, Slava},
     title = "{Exact Diagonalization, Matrix Product States and Conformal Perturbation Theory Study of a 3D Ising Fuzzy Sphere Model}",
     eprint = "2504.00842",
     archivePrefix = "arXiv",
     primaryClass = "cond-mat.stat-mech",
-    month = "4",
+    doi = "10.21468/SciPostPhys.19.3.076",
+    journal = "SciPost Phys.",
+    volume = "19",
+    pages = "076",
     year = "2025"
 }
+
 
 
 @article{CPTnotebook,
